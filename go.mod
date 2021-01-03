@@ -1,3 +1,3 @@
-module go2020/src
+module github.com/zhanglinguang/go-srm
 
 go 1.15
