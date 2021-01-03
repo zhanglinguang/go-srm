@@ -1,9 +1,9 @@
-package main
+package srm
 
 import (
 	"fmt"
 )
 
-func main() {
-	fmt.Printf("main.go")
+func index() {
+	fmt.Printf("srm.go")
 }
