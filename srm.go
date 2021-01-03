@@ -4,6 +4,6 @@ import (
 	"fmt"
 )
 
-func index() {
+func Index() {
 	fmt.Printf("srm.go")
 }
